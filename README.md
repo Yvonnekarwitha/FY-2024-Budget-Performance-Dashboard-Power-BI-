@@ -9,8 +9,7 @@ The project emphasizes financial storytelling, clean data modeling, and executiv
 
 ##❓ What This Dashboard Answers
 
-Are we over or under budget YTD?
-
+- Are we over or under budget YTD?
 - Which months contributed most to unfavorable variance?
 - Is performance improving or deteriorating toward year-end?
 - How large is the variance—and is it material?
