@@ -12,7 +12,7 @@ The project emphasizes financial storytelling, clean data modeling, and executiv
 - Are we over or under budget YTD?
 - Which months contributed most to unfavorable variance?
 - Is performance improving or deteriorating toward year-end?
-- How large is the variance—and is it material?
+- How large is the variance and is it material?
 - Can an executive understand the story in under 10 seconds?
 
 ##📌 Key Takeaways (FY 2024)
@@ -42,9 +42,9 @@ DimMonth
     . Properly sorted Year-Month field
 
 DimDate
-    . Supporting calendar logic for future expansion
+    . Supports calendar logic for future expansion
 
-All relationships are one-to-many, and calculations are handled using explicit measures to avoid hidden aggregations.
+All relationships are one-to-many and calculations are handled using explicit measures to avoid hidden aggregations.
 
 ##🧮 Key Measures (DAX)
 
