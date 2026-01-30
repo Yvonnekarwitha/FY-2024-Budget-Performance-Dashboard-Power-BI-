@@ -14,6 +14,9 @@ The project emphasizes financial storytelling, clean data modeling, and executiv
 - Is performance improving or deteriorating toward year-end?
 - How large is the variance and is it material?
 - Can an executive understand the story in under 10 seconds?
+  
+<img width="1288" height="615" alt="image" src="https://github.com/user-attachments/assets/a7ae3ee7-7fd2-4752-94b4-d5cce2d2547f" />
+
 
 ##📌 Key Takeaways (FY 2024)
 
